@@ -1,0 +1,16 @@
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\bin\Debug\net5.0\WindowsFactoryExercise.exe
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\bin\Debug\net5.0\WindowsFactoryExercise.deps.json
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\bin\Debug\net5.0\WindowsFactoryExercise.runtimeconfig.json
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\bin\Debug\net5.0\WindowsFactoryExercise.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\bin\Debug\net5.0\WindowsFactoryExercise.dll
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\bin\Debug\net5.0\WindowsFactoryExercise.pdb
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\obj\Debug\net5.0\WindowsFactoryExercise.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\obj\Debug\net5.0\WindowsFactoryExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\obj\Debug\net5.0\WindowsFactoryExercise.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\obj\Debug\net5.0\WindowsFactoryExercise.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\obj\Debug\net5.0\WindowsFactoryExercise.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\obj\Debug\net5.0\WindowsFactoryExercise.dll
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\obj\Debug\net5.0\refint\WindowsFactoryExercise.dll
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\obj\Debug\net5.0\WindowsFactoryExercise.pdb
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\obj\Debug\net5.0\WindowsFactoryExercise.genruntimeconfig.cache
+C:\Users\Terrence\Desktop\Repos\WindowsFactoryExercise\WindowsFactoryExercise\obj\Debug\net5.0\ref\WindowsFactoryExercise.dll
